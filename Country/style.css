@@ -1,0 +1,37 @@
+body {
+    background-color: #D3B1C2;
+    text-align: center;
+    color: white;
+}
+
+.heading {
+    background-color: #211522;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    background-color: #613659;
+    margin-top: 20px;
+}
+
+input {
+    background-color: #211522;
+    color: white;
+}
+
+.btn-dark {
+    margin-bottom: 4px;
+}
+
+.list {
+    text-align: left;
+    color: #211522;
+    margin-top: 10px;
+}
+
+hr {
+    background-color: #211522;
+}
